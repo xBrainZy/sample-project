@@ -1,8 +1,8 @@
 import React from 'react';
-
+import '../styles/App.css';
 const Footer = () => {
   return (
-    <footer>
+    <footer className="footer">
       <p>&copy; 2023 Camera Co. All rights reserved.</p>
       <div className="social-links">
         <a href="https://facebook.com">Facebook</a>

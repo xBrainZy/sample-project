@@ -1,5 +1,5 @@
 import React from 'react';
-import './styles/App.css';
+import '../styles/App.css';
 const Products = () => {
   const products = [
     { id: 1, name: 'DSLR Camera', price: '999 QAR', image: 'dslr.jpg' },
@@ -8,11 +8,11 @@ const Products = () => {
   ];
 
   return (
-    <section>
+    <section id="products" className="products">
       <h2>Our Products</h2>
-      <div>
+      <div className="product-list">
         {products.map((product) => (
-          <div key={product.id}>
+          <div key={product.id} className="product">
             <img src={product.image} alt={product.name} />
             <h3>{product.name}</h3>
             <p>{product.price}</p>
