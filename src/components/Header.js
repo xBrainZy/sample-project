@@ -3,8 +3,8 @@ import './styles/App.css';
 
 const Header = () => {
   return (
-    <header>
-      <div>Camera Co.</div>
+    <header className="header">
+      <div className="logo">Camera Co.</div>
       <nav>
         <ul>
           <li><a href="#about">About</a></li>
