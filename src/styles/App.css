@@ -9,7 +9,7 @@ body {
     padding: 1rem 2rem;
     background-color: #333;
     color: #fff;
-    width: 95%;
+    width: 97%;
   }
   
   .header .logo {
@@ -40,7 +40,7 @@ body {
     color: #fff;
     text-align: center;
     padding: 6rem 1rem;
-    width: 97%;
+    width: 99%;
   }
   
   .hero h1 {
@@ -71,7 +71,7 @@ body {
     padding: 4rem 2rem;
     text-align: center;
     background-color: #f9f9f9;
-    width: 95%;
+    width: 97%;
   }
   
   .about h2 {
@@ -89,7 +89,7 @@ body {
   .products {
   padding: 4rem 2rem;
   text-align: center;
-  width: 95%;
+  width: 97%;
 }
 
 .products h2 {
@@ -133,7 +133,7 @@ body {
   padding: 4rem 2rem;
   text-align: center;
   background-color: #f9f9f9;
-  width: 95%;
+  width: 97%;
 }
 
 .contact h2 {
@@ -181,7 +181,7 @@ body {
   color: #fff;
   text-align: center;
   padding: 2rem 1rem;
-  width: 97%;
+  width: 99%;
 }
 
 .footer p {

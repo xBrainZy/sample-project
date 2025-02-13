@@ -1,8 +1,40 @@
-# React + Vite
+# Camera Company Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple React-based website for a camera company, built using **Vite.js**. It showcases products, an about section, and a contact form.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## **Prerequisites**
+
+Before running the app, ensure you have the following installed on your machine:
+
+- [Node.js](https://nodejs.org/) (v16 or higher)
+- [npm](https://www.npmjs.com/) (comes with Node.js)
+
+---
+
+## **How to Run the App Locally**
+
+Follow these steps to set up and run the project on your local machine:
+
+### **1. Clone the Repository**
+Clone the project repository to your local machine using the following command:
+```bash
+git clone https://github.com/xBrainZy/camera-company-website.git
+
+```
+or 
+
+Download the repo as zip file
+
+### **2. Navigate to the project
+
+Open the terminal and navigate to the path that you are in and run the command:
+
+```bash
+npm install
+```
+
+```bash
+npm run dev
+```
